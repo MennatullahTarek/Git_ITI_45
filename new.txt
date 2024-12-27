@@ -1,0 +1,9 @@
+This a new file to practice : 
+git reset --soft commanded --> from local repo to staging area
+git restore --staged filename --> from staging to work dir
+
+Then redo:
+git add filename --> add to staging area
+git commit --> to local repo
+
+Then push it :>

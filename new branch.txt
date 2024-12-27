@@ -1,0 +1,15 @@
+This is a file to practice making new branch :
+git checkout -b branchname  --> to make a new branch and move to it 
+
+Then add this file,
+
+Then merge to push:
+git checkout main
+git merge branchname
+
+Then use:
+git push --all
+
+We can also use :
+git checkout branchname
+git push
