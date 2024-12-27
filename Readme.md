@@ -35,7 +35,7 @@ alt="Git Workshop Image" style="width: 100%; height: 100%;" />
    - Merge it back into the main branch.
      
    - **Difference Between Merging vs. rebasing :**
-     - To incorporate new commits into your branch, you have two options: `merging` or `rebasing`.
+     - To incorporate new commits from main branch into the feature branch, you have two options: `merging` or `rebasing`.
        
        ![image](https://github.com/user-attachments/assets/b59faa63-08e1-4387-878c-a0b07676b059)
 
