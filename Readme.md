@@ -53,7 +53,7 @@ alt="Git Workshop Image" style="width: 100%; height: 100%;" />
 
        
 
-      - For more information : [Atlassian article on Merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing))
+      - For more information : [Atlassian article on Merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
         
 
 --
